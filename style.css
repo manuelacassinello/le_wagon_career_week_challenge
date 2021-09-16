@@ -1,0 +1,78 @@
+.stations1{
+background-color: black;
+border-radius: 27px;
+width: 248px;
+height: 461px;
+align-content: center;
+position: relative;
+margin: auto;
+color: white;
+}
+
+.cards-wrap {
+  padding: 16px;
+  border-radius: 10px;
+  margin-top: 16px;
+  font-family: "Helvetica";
+  font-weight: lighter;
+  padding-top:0px
+}
+
+h1 {
+ align-items: center;
+ text-align: center;
+ font-family: "Helvetica";
+ font-weight: lighter;
+ font-size: 21px;
+
+ padding-top: 28px;
+ padding-bottom: -5px;
+
+}
+
+
+.putinfm{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: white 1px;
+}
+
+.dribblefm {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dogefm {
+  display: flex;
+  justify-content: space-between;
+}
+
+.balladsfm {
+  display: flex;
+  justify-content: space-between;
+}
+
+.maximumfm {
+  display: flex;
+  justify-content: space-between;
+}
+
+.border-radio{
+  border-bottom: solid 1px white;
+  padding-bottom: 5px;
+}
+
+.footer {
+  margin-top: 32px;
+  padding-top: -6px;
+  padding-bottom: 15px;
+  background: orange;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.fa-power-off{
+  margin-top: 31px;
+}
